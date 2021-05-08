@@ -11,3 +11,9 @@ a = 2
 b = 3
 print(a ** b)
 print(b % a)
+
+print(1 == 2)
+a = 1
+b = 2
+print(a == 1)
+print(a != b)
