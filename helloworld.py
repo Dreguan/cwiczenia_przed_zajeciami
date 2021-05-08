@@ -1,6 +1,6 @@
 message = "Hello"
-message = message + " World"
-print(message)
+message = message + " World "
+print(message * 3)
 
 a = 1.5
 b = 0.5
