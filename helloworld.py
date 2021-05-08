@@ -22,3 +22,7 @@ print("1"+"2")
 print(int("1")+int("2"))
 print(bool(1))
 print(str(12))
+
+print("Jest to {} linia programu".format(26))
+print("Jest to {} linia programu, w której występuje słowo '{}'".format(27, "słowo"))
+print("Jest to {line} linia programu, w której drukujemy słowo '{word}'. Koniec linii {line}".format(line=28, word="Hello"))
