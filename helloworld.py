@@ -17,3 +17,8 @@ a = 1
 b = 2
 print(a == 1)
 print(a != b)
+
+print("1"+"2")
+print(int("1")+int("2"))
+print(bool(1))
+print(str(12))
