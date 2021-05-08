@@ -1,5 +1,5 @@
 message = "Hello"
-message = message + " World "
+message = message + " World\n"
 print(message * 3)
 
 a = 1.5
@@ -33,3 +33,7 @@ print("Twoje imię to {}".format(user_name))
 print("Ile masz lat?")
 age = int(input())
 print("Twój wiek to {}".format(age))
+
+print("1\n2\n3\n4\n5")
+print("1\r2\r3\r4\r50\r6")
+print("Używam \"cudzysłowu\" wewnątrz ciągu znaków")
